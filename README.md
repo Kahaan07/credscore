@@ -74,34 +74,6 @@ To remove all images and containers associated with the application, execute:
 ```
 make clean
 ```
-
-## Summary
-
-This demonstration serves as an interesting example for how the adoption of alternative credit scoring methods, leveraging artificial intelligence, can reshape traditional credit scoring experience.
-
-In the previous sections, we explored how to:
-
-- To insert your own dataset
-- Set up your collection for vector search.
-
-Are you prepared to harness these capabilities for your projects? Should you encounter any roadblocks or have questions, our vibrant [developer forums](https://www.mongodb.com/community/forums/) are here to support you every step of the way. Or if you prefer to contact us directly at [industry.solutions@mongodb.com](mailto:industry.solutions@mongodb.com).
-
-You can also dive into the following resources:
-
-- [Reducing Bias in Credit Scoring with Generative Al](https://www.mongodb.com/blog/post/credit-scoring-applications-with-generative-ai)
-
-## Disclaimer
-
-This product is not a MongoDB official product. Use at your own risk!
-
-## Authors
-
-- Ashwin Gangadhar, Solutions Architect, Partner Solutions, MongoDB
-- Wei You Pan, Global Director, Financial Industry Solutions, MongoDB
-- Paul Claret, Senior Specialist, Industry Solutions, MongoDB
-
-Feel free to refer to [the original repo](https://github.com/ashwin-gangadhar-mdb/mdb-bfsi-genai/tree/main/) for more content like this one.
-
 ## 📄 License
 
 See [LICENSE](LICENSE) file for details.
