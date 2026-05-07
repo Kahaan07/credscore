@@ -74,6 +74,3 @@ To remove all images and containers associated with the application, execute:
 ```
 make clean
 ```
-## 📄 License
-
-See [LICENSE](LICENSE) file for details.
